@@ -13,7 +13,7 @@ const Mid = () => {
     <div className="mt-8 w-[80%] m-auto mb-8">
       <div className="top flex justify-between items-center">
         <h1 className="text-2xl md:text-3xl font-semibold mb-3">
-          Latest Jobs on Job<span className="text-blue-400">Nest</span>
+          Latest Jobs on Talent<span className="text-blue-400">Bridge</span>
         </h1>
 
         <Link href={"/jobs"}>
