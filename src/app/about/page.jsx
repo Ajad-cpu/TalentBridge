@@ -35,7 +35,7 @@ const About = () => {
           animate="visible"
           custom={1}
         >
-          Our Mission At Job <span className="text-blue-400">Nest</span>
+          Our Mission At Talent<span className="text-blue-400">Bridge</span>
         </motion.h2>
         <motion.p
           className="text-lg md:text-xl mb-8"
@@ -44,7 +44,7 @@ const About = () => {
           animate="visible"
           custom={2}
         >
-          At JobNest, we’re reimagining the future of job discovery. Our mission is to seamlessly connect ambitious talent with visionary companies, building a thriving ecosystem of opportunity, innovation, and growth. Whether you're starting your career or scaling your team, JobNest is where potential meets purpose.
+          At TalentBridge, we’re reimagining the future of job discovery. Our mission is to seamlessly connect ambitious talent with visionary companies, building a thriving ecosystem of opportunity, innovation, and growth. Whether you're starting your career or scaling your team, TalentBridge is where potential meets purpose.
         </motion.p>
       </section>
 
@@ -73,7 +73,7 @@ const About = () => {
         viewport={{ once: true }}
       >
         <motion.h3 className="text-2xl font-semibold mb-4" variants={fadeInUp}>
-          How JobNest Works
+          How TalentBridge Works
         </motion.h3>
         <motion.ul
           className="text-lg space-y-4 text-center"
@@ -127,7 +127,7 @@ const About = () => {
           Ready to find your dream job?
         </motion.h2>
         <motion.p className="text-lg md:text-xl mb-8" variants={fadeInUp} custom={1}>
-          Join thousands of successful job seekers on <span className="text-blue-400">JobNest</span>
+          Join thousands of successful job seekers on <span className="text-blue-400">TalentBridge</span>
         </motion.p>
         <motion.div variants={fadeInUp} custom={2}>
           <Link href="/jobs">
