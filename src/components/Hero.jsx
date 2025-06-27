@@ -45,7 +45,7 @@ const Hero = () => {
             variants={fadeInUp}
             custom={1}
           >
-            Welcome to <span className="text-blue-500">JobNest</span>
+            Welcome to <span className="text-blue-500">TalentBridge</span>
             <br className="hidden lg:inline-block" />
             Your gateway to career success
           </motion.h1>
