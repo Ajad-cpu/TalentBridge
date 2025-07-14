@@ -54,7 +54,7 @@ const Hero = () => {
             variants={fadeInUp}
             custom={2}
           >
-            Discover opportunities that match your skills and passions. At JobNest, we connect ambitious talent with top companies, simplify your job search, and empower your career journey.
+            Discover opportunities that match your skills and passions. At TalentBridge, we connect ambitious talent with top companies, simplify your job search, and empower your career journey.
           </motion.p>
 
           {/* CTA Buttons */}
