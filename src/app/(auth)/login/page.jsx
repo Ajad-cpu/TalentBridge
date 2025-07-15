@@ -28,8 +28,8 @@ const Login = () => {
       <div className="md:w-1/3 border border-gray-400 rounded-lg p-8 flex flex-col w-full relative shadow-md m-auto">
         <h2 className="mb-1">
           <span className="text-3xl">Login to </span>
-          <span className="text-3xl">Hire</span>
-          <span className="text-3xl text-red-500">Heven</span>
+          <span className="text-3xl">Talent</span>
+          <span className="text-3xl text-red-500">Bridge</span>
         </h2>
 
         <form
