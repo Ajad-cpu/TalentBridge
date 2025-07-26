@@ -28,7 +28,7 @@ export async function POST(req) {
 
     const data = { email, token };
 
-    await sendMail("HireHeaven", data);
+    await sendMail("TalentBridge", data);
 
     user.resetPasswordExpire = Date.now() + 5 * 60 * 1000;
     user.resetToken = token;
