@@ -13,7 +13,7 @@ const uploadFile = async (file) => {
     cloudinary.uploader
       .upload_stream(
         {
-          folder: "hireheaven",
+          folder: "TalentBridge",
           access_mode: "public",
         },
         (err, result) => {
