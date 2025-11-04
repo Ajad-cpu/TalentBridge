@@ -6,7 +6,7 @@ Live demo: https://talentbridge-seven.vercel.app/
 
 ---
 
-## Tech Stack
+## Tech Stack _
 - **Front‑end:** Next.js · React · Tailwind CSS  
 - **Back‑end:** Node.js · Express.js  
 - **Auth:** NextAuth.js (email OTP)  
