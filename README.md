@@ -1,6 +1,6 @@
 ````markdown
 # TalentBridge
-..
+...
 A full‑stack talent‑matching platform connecting candidates and recruiters.  
 Live demo: https://talentbridge-seven.vercel.app/
 
